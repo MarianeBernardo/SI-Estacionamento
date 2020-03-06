@@ -1,1 +1,1 @@
-# Coloque aqui, documentos de engenharia do software (ASTAH, DATAMODELER, BISAGI, etc.)
+# Coloque aqui, documentos de engenharia do software (ASTAH, DATAMODELER, BISAGI, etc.).
